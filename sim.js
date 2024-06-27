@@ -78,7 +78,7 @@
                 location.href = "https://docs.google.com/spreadsheets/d/1darEfX62U1KocGHv-H2RKXOvuRClstR1hEt2WYv8_y8/edit?usp=sharing"
             }
             //กรรมการคนที่ 8 ปวส.
-            elseif (document.getElementById('user').value == "pvs08" && 
+            else if (document.getElementById('user').value == "pvs08" && 
                 document.getElementById('pass').value == "pvs08*67*22") {
                 location.href = "https://docs.google.com/spreadsheets/d/1mVQzNWzwBiWnj-0o15Wnqq9fSkZA5vi-aLUiwA3D2Kw/edit?usp=sharing"
             }
