@@ -20,7 +20,7 @@
             //กรรมการคนที่ 4 ปวช.
             else if (document.getElementById('user').value == "pvc04" && 
                 document.getElementById('pass').value == "pvc04*67*66") {
-                location.href = "hhttps://docs.google.com/spreadsheets/d/1Y7Piz2M95f1oVe79xSvAKIi4qWbaXBMDw-FaU1ajQOQ/edit?usp=sharing"
+                location.href = "https://docs.google.com/spreadsheets/d/1Y7Piz2M95f1oVe79xSvAKIi4qWbaXBMDw-FaU1ajQOQ/edit?usp=sharing"
             }
             //กรรมการคนที่ 5 ปวช.
             else if (document.getElementById('user').value == "pvc05" && 
