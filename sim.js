@@ -83,7 +83,7 @@
                 location.href = "https://docs.google.com/spreadsheets/d/1mVQzNWzwBiWnj-0o15Wnqq9fSkZA5vi-aLUiwA3D2Kw/edit?usp=sharing"
             }
             else {
-              alert('ชื่อผู้มใช้งาน หรือรหัสผ่านไม่ถูกต้อง')
+              alert('ชื่อผู้ใช้งาน หรือรหัสผ่านไม่ถูกต้อง')
             }
 
           
